@@ -1,0 +1,16 @@
+C:\Users\dev\Documents\Lógica ArkDreal\bin\Debug\net5.0\Lógica ArkDreal.exe
+C:\Users\dev\Documents\Lógica ArkDreal\bin\Debug\net5.0\Lógica ArkDreal.deps.json
+C:\Users\dev\Documents\Lógica ArkDreal\bin\Debug\net5.0\Lógica ArkDreal.runtimeconfig.json
+C:\Users\dev\Documents\Lógica ArkDreal\bin\Debug\net5.0\Lógica ArkDreal.runtimeconfig.dev.json
+C:\Users\dev\Documents\Lógica ArkDreal\bin\Debug\net5.0\Lógica ArkDreal.dll
+C:\Users\dev\Documents\Lógica ArkDreal\bin\Debug\net5.0\ref\Lógica ArkDreal.dll
+C:\Users\dev\Documents\Lógica ArkDreal\bin\Debug\net5.0\Lógica ArkDreal.pdb
+C:\Users\dev\Documents\Lógica ArkDreal\obj\Debug\net5.0\Lógica ArkDreal.csproj.AssemblyReference.cache
+C:\Users\dev\Documents\Lógica ArkDreal\obj\Debug\net5.0\Lógica ArkDreal.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dev\Documents\Lógica ArkDreal\obj\Debug\net5.0\Lógica ArkDreal.AssemblyInfoInputs.cache
+C:\Users\dev\Documents\Lógica ArkDreal\obj\Debug\net5.0\Lógica ArkDreal.AssemblyInfo.cs
+C:\Users\dev\Documents\Lógica ArkDreal\obj\Debug\net5.0\Lógica ArkDreal.csproj.CoreCompileInputs.cache
+C:\Users\dev\Documents\Lógica ArkDreal\obj\Debug\net5.0\Lógica ArkDreal.dll
+C:\Users\dev\Documents\Lógica ArkDreal\obj\Debug\net5.0\ref\Lógica ArkDreal.dll
+C:\Users\dev\Documents\Lógica ArkDreal\obj\Debug\net5.0\Lógica ArkDreal.pdb
+C:\Users\dev\Documents\Lógica ArkDreal\obj\Debug\net5.0\Lógica ArkDreal.genruntimeconfig.cache
