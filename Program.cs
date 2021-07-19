@@ -18,7 +18,7 @@ namespace Lógica_ArkDreal
             // ----------------------- //
          }
 
-        static void CadastrarParticipantes(List<string> inscritos){
+        public static void CadastrarParticipantes(List<string> inscritos){
             string respostaCadastrar;
             do
             {
@@ -37,14 +37,20 @@ namespace Lógica_ArkDreal
             {
             Console.WriteLine("Você pode entrar no evento!");
             inscritos.Add(nome);
+            Console.ForegroundColor = ConsoleColor.Green;
             Console.WriteLine("Você foi cadastrado com sucesso!");
+            Console.ResetColor();
+            Console.WriteLine("Para cadastrar outra pessoa digite: sim");
             }
             else
             {
+            Console.ForegroundColor = ConsoleColor.Red;
             Console.WriteLine("Você não tem permissão para entrar no evento! Não pode ser cadastrado!");
+            Console.ResetColor();
             } 
             Console.WriteLine("Você deseja cadastrar mais uma pessoa?");
             respostaCadastrar = Console.ReadLine();
+            
 
             } while (respostaCadastrar == "sim");
             
@@ -53,7 +59,9 @@ namespace Lógica_ArkDreal
         public static void  ListaParticipantes(List<string> inscritos){ 
             foreach (var nome in inscritos)
             {
+                Console.ForegroundColor = ConsoleColor.Blue;
                 Console.WriteLine(nome);
+                Console.ResetColor();
             }
         }
     }

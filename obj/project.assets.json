@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\dev\\Documents\\Lógica ArkDreal\\Lógica ArkDreal.csproj",
+      "projectUniqueName": "C:\\Users\\dev\\Desktop\\Logica-Recuperacao\\Lógica ArkDreal.csproj",
       "projectName": "Lógica ArkDreal",
-      "projectPath": "C:\\Users\\dev\\Documents\\Lógica ArkDreal\\Lógica ArkDreal.csproj",
+      "projectPath": "C:\\Users\\dev\\Desktop\\Logica-Recuperacao\\Lógica ArkDreal.csproj",
       "packagesPath": "C:\\Users\\dev\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\dev\\Documents\\Lógica ArkDreal\\obj\\",
+      "outputPath": "C:\\Users\\dev\\Desktop\\Logica-Recuperacao\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\dev\\AppData\\Roaming\\NuGet\\NuGet.Config"
