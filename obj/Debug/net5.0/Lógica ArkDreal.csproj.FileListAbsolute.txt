@@ -21,7 +21,6 @@ C:\Users\dev\Desktop\Logica-Recuperacao\bin\Debug\net5.0\Lógica ArkDreal.runtim
 C:\Users\dev\Desktop\Logica-Recuperacao\bin\Debug\net5.0\Lógica ArkDreal.dll
 C:\Users\dev\Desktop\Logica-Recuperacao\bin\Debug\net5.0\ref\Lógica ArkDreal.dll
 C:\Users\dev\Desktop\Logica-Recuperacao\bin\Debug\net5.0\Lógica ArkDreal.pdb
-C:\Users\dev\Desktop\Logica-Recuperacao\obj\Debug\net5.0\Lógica ArkDreal.csproj.AssemblyReference.cache
 C:\Users\dev\Desktop\Logica-Recuperacao\obj\Debug\net5.0\Lógica ArkDreal.GeneratedMSBuildEditorConfig.editorconfig
 C:\Users\dev\Desktop\Logica-Recuperacao\obj\Debug\net5.0\Lógica ArkDreal.AssemblyInfoInputs.cache
 C:\Users\dev\Desktop\Logica-Recuperacao\obj\Debug\net5.0\Lógica ArkDreal.AssemblyInfo.cs
@@ -30,3 +29,4 @@ C:\Users\dev\Desktop\Logica-Recuperacao\obj\Debug\net5.0\Lógica ArkDreal.dll
 C:\Users\dev\Desktop\Logica-Recuperacao\obj\Debug\net5.0\ref\Lógica ArkDreal.dll
 C:\Users\dev\Desktop\Logica-Recuperacao\obj\Debug\net5.0\Lógica ArkDreal.pdb
 C:\Users\dev\Desktop\Logica-Recuperacao\obj\Debug\net5.0\Lógica ArkDreal.genruntimeconfig.cache
+C:\Users\dev\Desktop\Logica-Recuperacao\obj\Debug\net5.0\Lógica ArkDreal.csprojAssemblyReference.cache

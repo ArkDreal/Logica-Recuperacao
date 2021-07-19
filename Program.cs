@@ -20,6 +20,8 @@ namespace Lógica_ArkDreal
 
         public static void CadastrarParticipantes(List<string> inscritos){
             string respostaCadastrar;
+            string acompanhadoValidar = "sim";
+            
             do
             {
             Console.WriteLine("Qual é o seu nome?");
@@ -28,29 +30,32 @@ namespace Lógica_ArkDreal
             Console.WriteLine("Qual é a sua idade?");
             int idadePessoa = int.Parse(Console.ReadLine()); 
 
-            Console.WriteLine("Você está acompanhado com seus pais?");
-            string acompanhadoValidar = Console.ReadLine();
+            if (idadePessoa <= 16)
+            {
+                Console.WriteLine("Você está acompanhado com seus pais? (sim/nao)");
+                acompanhadoValidar = Console.ReadLine();
+            }
 
-           
-            
             if (idadePessoa >= 16 || acompanhadoValidar == "sim" )
             {
-            Console.WriteLine("Você pode entrar no evento!");
-            inscritos.Add(nome);
-            Console.ForegroundColor = ConsoleColor.Green;
-            Console.WriteLine("Você foi cadastrado com sucesso!");
-            Console.ResetColor();
-            Console.WriteLine("Para cadastrar outra pessoa digite: sim");
+                Console.WriteLine("Você pode entrar no evento!");
+                inscritos.Add(nome);
+                Console.ForegroundColor = ConsoleColor.Green;
+                Console.WriteLine("Você foi cadastrado com sucesso!");
+                Console.ResetColor();
+
             }
+
             else
             {
-            Console.ForegroundColor = ConsoleColor.Red;
-            Console.WriteLine("Você não tem permissão para entrar no evento! Não pode ser cadastrado!");
-            Console.ResetColor();
+                Console.ForegroundColor = ConsoleColor.Red;
+                Console.WriteLine("Você não tem permissão para entrar no evento! Não pode ser cadastrado!");
+                Console.ResetColor();
             } 
-            Console.WriteLine("Você deseja cadastrar mais uma pessoa?");
+
+            Console.WriteLine("Você deseja cadastrar mais uma pessoa? (sim/nao)");
             respostaCadastrar = Console.ReadLine();
-            
+
 
             } while (respostaCadastrar == "sim");
             
